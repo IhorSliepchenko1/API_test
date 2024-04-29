@@ -46,7 +46,8 @@ thead {
   display: grid;
   justify-content: center;
   margin-inline: auto;
-  max-width: 1500px;
+  width: 1500px;
+  overflow: scroll;
 }
 
 .active_btn {
